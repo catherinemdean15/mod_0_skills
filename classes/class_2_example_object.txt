@@ -1,0 +1,14 @@
+
+grandmas_tablecloth
+
+Attributes
+1.color="pink"
+2.number_of_stains=4
+3.checkered=false
+4.brand="homemade"
+
+Methods
+1.color="merlot"
+2.number_of_stains=3
+3.checkered=true
+4.homemade (prints, no changes to attribute)
