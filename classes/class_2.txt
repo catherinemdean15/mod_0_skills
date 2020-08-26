@@ -1,0 +1,13 @@
+Tablecloth
+
+Attributes
+1. color (string)
+2. number_of_stains (integer)
+3. checkered (boolean)
+4. brand (string)
+
+Methods
+1. spill_wine (changes color to "merlot")
+2. bleach (decreases number_of_stains by 1)
+3. kids_with_crayons (changes checkered to true)
+4. check_brand (prints brand)
