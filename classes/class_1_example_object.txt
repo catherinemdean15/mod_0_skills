@@ -4,11 +4,11 @@ dinner_menu
 Attributes
 1. number_of_items = 12
 2. "Asian Fusion"
-3. pizza = false
+3. serves_pizza = false
 4. ["Tina", "Allison", "Hannah"]
 
 Methods
 1. number_of_items = 11
 2. Asian Fusion
-3. pizza = true
+3. serves_pizza = true
 4. ["Tina", "Allison", "Hannah", "Catherine"]
