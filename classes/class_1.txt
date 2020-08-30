@@ -2,13 +2,13 @@ Menu
 
 Attributes
 1. number_of_items (int)
-2. food (string)
-3. pizza (boolean)
+2. cuisine (string)
+3. serves_pizza (boolean)
 4. readers (array)
 
 
 Methods
 1. sold_out (decreases number_of_items by 1)
-2.list (prints food string)
-3. add_pizza (changes pizza to true)
+2.list (prints cuisine string)
+3. add_pizza (changes serves_pizza to true)
 4. new_customer (adds "Catherine" to readers array)
