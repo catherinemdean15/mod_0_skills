@@ -9,5 +9,5 @@ Attributes
 Methods
 1. spill_wine (changes color to "merlot")
 2. bleach (decreases number_of_stains by 1)
-3. kids_with_crayons (changes is_checkered to true)
+3. draw_with_crayons (changes is_checkered to true)
 4. check_brand (prints brand)
